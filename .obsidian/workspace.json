@@ -56,14 +56,17 @@
             "id": "277cd8687adb80d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "AWS/Introdução a computação.md",
-                "mode": "source",
-                "source": false
+                "file": "Plano de estudos.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Introdução a computação"
+              "icon": "lucide-layout-dashboard",
+              "title": "Plano de estudos"
             }
           }
         ],
@@ -140,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Introdução a computação.md",
+                "file": "Plano de estudos.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Introdução a computação"
+              "title": "Links inversos para Plano de estudos"
             }
           },
           {
@@ -159,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Introdução a computação.md",
+                "file": "Plano de estudos.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Introdução a computação"
+              "title": "Links de saída para Plano de estudos"
             }
           },
           {
@@ -188,21 +191,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Introdução a computação.md",
+                "file": "Plano de estudos.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Introdução a computação"
+              "title": "Sumário de Plano de estudos"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,6 +219,7 @@
   },
   "active": "277cd8687adb80d7",
   "lastOpenFiles": [
+    "AWS/Introdução a computação.md",
     "Plano de estudos.canvas",
     "Programa de pais.md",
     "Perguntas a entrevistadora.md",
@@ -224,7 +228,6 @@
     "Datadog/Datadog Foundation.md",
     "CS50/Computer Science.md",
     "Conteúdo/Cursos para finalizar.md",
-    "AWS/Introdução a computação.md",
     "AWS",
     "Spring Annotations/Spring Boot Annotations.md",
     "Spring Annotations/Stereotype.md",
