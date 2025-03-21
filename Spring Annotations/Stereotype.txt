@@ -1,0 +1,15 @@
+As anotações Stereotypes são usadas para indicar ao Spring quais e como as classes serão gerenciadas, são usadas para indicar quais os baeans do projeto.
+Permitindo que o spring faça a injeção desses beans onde necessário.
+
+@Component
+    Anotação mais generalizada de Stereotype, com ela já é possivel indicar ao Spring quais classes gerenciar.
+
+@Service
+ Indica que a classe de serviço será gerenciada pelo Spring
+
+@Repository
+ Indica que a classe gera gerenciada pelo Spring em relação à base de dados
+
+@Controller ou @RestController
+ Indica que é uma classe para as camadas MVC, se for só o endpoint para expor uma API pode usar só o RestController
+

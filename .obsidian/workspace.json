@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "640c24a61f06e0a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6968095c083a4f12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e5a16a680f2f73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/Padrões de projeto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Padrões de projeto"
+            }
+          },
+          {
+            "id": "1b2e3a34fb8e1233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Annotations/Spring Boot Annotations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Boot Annotations"
+            }
+          },
+          {
+            "id": "8d660b876303af9a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Plano de estudos.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Plano de estudos"
+            }
+          },
+          {
+            "id": "277cd8687adb80d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Introdução a computação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introdução a computação"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b8171fd4c25c168",
+    "type": "split",
+    "children": [
+      {
+        "id": "dabe81bee245429f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46f7d93dc0f44252",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "f70a88f778f4d7ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "21643a7b789186d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08d40925a494bf88",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d9728d6ecda5f69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "427fb023d9988ff4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS/Introdução a computação.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Introdução a computação"
+            }
+          },
+          {
+            "id": "dd25da0a0040104f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS/Introdução a computação.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Introdução a computação"
+            }
+          },
+          {
+            "id": "bfa6bc8c0a940aa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c7c13372fda7ee1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS/Introdução a computação.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Introdução a computação"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "277cd8687adb80d7",
+  "lastOpenFiles": [
+    "Plano de estudos.canvas",
+    "Programa de pais.md",
+    "Perguntas a entrevistadora.md",
+    "Design Pattern/Padrões de projeto.md",
+    "Datadog/Introduction to Observability.md",
+    "Datadog/Datadog Foundation.md",
+    "CS50/Computer Science.md",
+    "Conteúdo/Cursos para finalizar.md",
+    "AWS/Introdução a computação.md",
+    "AWS",
+    "Spring Annotations/Spring Boot Annotations.md",
+    "Spring Annotations/Stereotype.md",
+    "Spring Annotations/Web.md",
+    "Spring Annotations/Core.md",
+    "Spring Annotations/Boot.md",
+    "Datadog",
+    "CS50",
+    "Imagens/Pasted image 20240407161203.png",
+    "Imagens/Pasted image 20240407155509.png",
+    "Imagens/Pasted image 20231221144101.png",
+    "Imagens/Pasted image 20231221144601.png",
+    "Imagens",
+    "Imagens/Pasted image 20231221143953.png",
+    "Imagens/Pasted image 20231221143802.png",
+    "Imagens/Pasted image 20231221143546.png",
+    "Imagens/Pasted image 20231221142100.png",
+    "Pasted image 20231221142056.png",
+    "Design Pattern",
+    "Conteúdo",
+    "Spring Annotations/Stereotype.txt",
+    "Spring Annotations/Core.txt",
+    "Spring Annotations"
+  ]
+}

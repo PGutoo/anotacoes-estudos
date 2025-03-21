@@ -1,0 +1,4 @@
+# [[Stereotype]]
+# [[Boot]]
+# [[Core]]
+# [[Web]]
