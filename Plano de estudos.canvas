@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"38358ca5388da60b","x":-268,"y":-21,"width":250,"height":60,"type":"text","text":"Padrões de projeto"},
-		{"id":"3fa6956ff7392596","x":-325,"y":-209,"width":250,"height":60,"type":"text","text":"Iniciação à computação"}
+		{"id":"3fa6956ff7392596","x":-268,"y":-260,"width":250,"height":60,"type":"text","text":"Iniciação à computação"}
 	],
 	"edges":[]
 }
