@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "08d40925a494bf88",
@@ -112,8 +111,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Introdução a computação.md",
-                "collapseAll": true,
+                "file": "Datadog/Introduction to Observability.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -122,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Introdução a computação"
+              "title": "Links inversos para Introduction to Observability"
             }
           },
           {
@@ -169,7 +168,8 @@
               "title": "Sumário de Introdução a computação"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,14 +188,16 @@
   },
   "active": "1e5a16a680f2f73a",
   "lastOpenFiles": [
-    "Design Pattern/Padrões de projeto.md",
-    "Spring Annotations/Spring Boot Annotations.md",
-    "Plano de estudos.canvas",
-    "AWS/Introdução a computação.md",
-    "Programa de pais.md",
-    "Perguntas a entrevistadora.md",
+    "Pasted image 20250328154609.png",
+    "Pasted image 20250328151526.png",
     "Datadog/Introduction to Observability.md",
     "Datadog/Datadog Foundation.md",
+    "AWS/Introdução a computação.md",
+    "Plano de estudos.canvas",
+    "Design Pattern/Padrões de projeto.md",
+    "Spring Annotations/Spring Boot Annotations.md",
+    "Programa de pais.md",
+    "Perguntas a entrevistadora.md",
     "CS50/Computer Science.md",
     "Conteúdo/Cursos para finalizar.md",
     "AWS",
