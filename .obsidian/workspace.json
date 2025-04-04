@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Introdução a computação.md",
+                "file": "AWS/Cloud Fundamentals, Administration and Solution Architect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introdução a computação"
+              "title": "Cloud Fundamentals, Administration and Solution Architect"
             }
           },
           {
@@ -38,7 +38,8 @@
               "title": "Plano de estudos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Introdução a computação.md",
+                "file": "Plano de estudos.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Introdução a computação"
+              "title": "Sumário de Plano de estudos"
             }
           }
         ],
@@ -173,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,13 +186,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1e5a16a680f2f73a",
+  "active": "277cd8687adb80d7",
   "lastOpenFiles": [
+    "AWS/Cloud Fundamentals, Administration and Solution Architect.md",
+    "AWS/Introdução a computação.md",
+    "Pasted image 20250404134945.png",
     "Pasted image 20250328154609.png",
     "Pasted image 20250328151526.png",
     "Datadog/Introduction to Observability.md",
     "Datadog/Datadog Foundation.md",
-    "AWS/Introdução a computação.md",
     "Plano de estudos.canvas",
     "Design Pattern/Padrões de projeto.md",
     "Spring Annotations/Spring Boot Annotations.md",
@@ -215,8 +217,6 @@
     "Imagens/Pasted image 20231221143953.png",
     "Imagens/Pasted image 20231221143802.png",
     "Imagens/Pasted image 20231221143546.png",
-    "Imagens/Pasted image 20231221142100.png",
-    "Pasted image 20231221142056.png",
     "Design Pattern",
     "Conteúdo",
     "Spring Annotations/Stereotype.txt",

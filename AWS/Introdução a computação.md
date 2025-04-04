@@ -296,3 +296,40 @@ A AWS oferece dois tipos de Saving Plans:
 | Aplicativos com horários de início e término flexíveis                                                 | Cargas de trabalho de baixo orçamento podem ser atendidas com instâncias de baixo custo, desde que se tenha tolerância a interrupções |
 | Aplicativos que só serão viáveis se tiverem preços de computação muito baixos.                         |                                                                                                                                       |
 | Usuários com necessidades computacionais urgentes que exijam grande quantidade de capacidade adicional |                                                                                                                                       |
+
+# Tenancy
+
+O Tenancy define como instâncias do EC2 são distribuídas pelo hardware do host físico.
+O Amazon EC2 oferece três opções de tenancy para hospedar suas instâncias. O Tenancy escolhido por você afeta o preço.
+
+- Tenancy compartilhado
+- Instância dedicada
+- Host Dedicado
+## Comparando tenancies
+
+
+| Atributos de tenancy                                                                               | Host dedicado                           | Instância dedicada | Tenancy compartilhado |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------ | --------------------- |
+| As instâncias compartilham o hardware do host com instâncias                                       | Não                                     | Não                | Sim                   |
+| As instâncias ficam isoladas no hardware do host que não é compartilhado com outras contas da AWS. | Sim                                     | Sim                | Não                   |
+| Acesse para gerencias a colocação da instância no hardware do host.                                | Sim                                     | Não                | Não                   |
+| Implante instâncias consistentemente no mesmo servidor físico ao longo do tempo.                   | Sim                                     | Não                | Não                   |
+| Custo por instância                                                                                | Depende do número de instância no host. | Alto               | Baixo                 |
+
+### Casos de uso de tenancy
+
+| Host dedicado                                                                                                                                                                  | Instâncias dedicada                                                                                | Tenancy compartilhado                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| Conformidade regulatória que exige que **hosts não podem ser compartilhados** entre contas da AWS.                                                                             | Conformidade regulatória que exige que **hosts não podem ser compartilhados** entre contas da AWS. | A conformidade regulatória **não é** exigida. |
+| Gerenciar o hardware do host **é** exigido.                                                                                                                                    | Gerenciar o hardware do host **não é** exigido.                                                    | Contas de desenvolvimento e teste.            |
+| Quando você **precisa** de instâncias dedicadas suficientes ou próximo disso para preencher um host.                                                                           | Quando você **não precisa** de instâcias dedicadas suficientes para preencher um host.             |                                               |
+| Ao usar licenças de software **existentes** por soquete, por núcleo ou po VM que estão **vinculadas** a VMs, soquetes ou núcleos físicos, sujeitas aos seus termos de licença. |                                                                                                    |                                               |
+**Nota: Um host contém aproximadamente 22 instâncias.**
+
+# Utilizando o Amazon EC2
+
+- Etapas para iniciar uma instância do EC2
+- Opções de configuração
+- Configurar para caso de uso
+
+![[Pasted image 20250404134945.png]]
