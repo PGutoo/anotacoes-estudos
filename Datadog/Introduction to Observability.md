@@ -13,7 +13,7 @@ Observabilidade é obter os mesmos dados coletados e mover para além do "o que 
 
 - Metrics - Esses dados são valores numéricos que podem rastrear qualquer coisa sobre seu ambiente ao longo do tempo.
 - Logs - Coleção de informação sobre o uso de uma sistema ao longo do tempo. Um arquivo gerado pelo computador pode conter informações temporais sobre o uso do sistema.
-- Traces - Nós dá um entendimento sobre o que está acontecendo dentro de uma aplicação. Usado para rastrear o tempo gasto por uma aplicação processando uma requisição e o status da requisição.
+- Traces - Nos dá um entendimento sobre o que está acontecendo dentro de uma aplicação. Usado para rastrear o tempo gasto por uma aplicação processando uma requisição e o status da requisição.
 
 ## O que é Metric?
 
